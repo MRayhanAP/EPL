@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">quiz2</string>
+    <string-array name="club">
+        <item>FCBH</item>
+        <item>WOLVES</item>
+        <item>CELSI</item>
+        <item>ARSENAL</item>
+        <item>MANCASTER</item>
+        <item>AREMA</item>
+    </string-array>
+    <string-array name="fcbhPlayer">
+        <item>1. Jape Belly</item>
+        <item>2. Rafi Rapep</item>
+        <item>3. Rimba Iksan</item>
+        <item>4. Syafrizal Kevin</item>
+        <item>5. Faris Adlan</item>
+    </string-array>
+    <string-array name="wolvesPlayer">
+        <item>1. Yoru Vico</item>
+        <item>2. Ilman Cuebong</item>
+        <item>3. Emi No</item>
+        <item>4. Nirwan Trauma</item>
+        <item>5. Rose Boyki</item>
+    </string-array>
+    <string-array name="celsiPlayer">
+        <item>1. Marck Zuccerberg</item>
+        <item>2. Timo Antimo</item>
+        <item>3. Kyo Kusanagi</item>
+        <item>4. Kris Peter</item>
+        <item>5. Bony Ebo</item>
+    </string-array>
+    <string-array name="arsenalPlayer">
+        <item>1. Zuakar Panel</item>
+        <item>2. Figha Egg</item>
+        <item>3. Max Sultan</item>
+        <item>4. Alan Perdana</item>
+        <item>5. Arifin Zurifin</item>
+    </string-array>
+    <string-array name="mancesterPlayer">
+        <item>1. Makarov Clash</item>
+        <item>2. Stalin Tarif</item>
+        <item>3. Natasya Kronov</item>
+        <item>4. Risty Juliet</item>
+        <item>5. Reyasviel Einzbern</item>
+    </string-array>
+    <string-array name="aremaPlayer">
+        <item>1. Riko Akbar</item>
+        <item>2. Reza Renaldi</item>
+        <item>3. Ahmad Fahri</item>
+        <item>4. Buah Madu</item>
+        <item>5. Steve Buno</item>
+    </string-array>
+</resources>
